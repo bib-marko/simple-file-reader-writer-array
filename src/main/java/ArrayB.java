@@ -140,8 +140,7 @@ public class ArrayB {
 
         out.close();
     }
-
-
+    
     private static void displayHeader(int numberOfQuiz) {
         System.out.printf(" %-20s ", "List of Student:");
         for(int index = 1; index <= numberOfQuiz; index++){
