@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArrayB {
+public class Launcher {
 
     static Scanner scan = new Scanner(System.in);
 
